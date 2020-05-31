@@ -1,2 +1,2 @@
 # Powertrail
-A repository of great project coming
+A repository of a great project coming
